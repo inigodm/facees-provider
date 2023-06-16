@@ -1,6 +1,14 @@
 # faces-provider
 
-Lets you use quickly a bunch of ascii faces
+Lets you use quickly a bunch of ascii faces with a simple double click that will add selected ascii face to the control that have the focus
+
+        "¯\_(ツ)_/¯"   "Slught"\
+        "(ಠ_ಠ)"   "Serious"\
+        "(⚆_⚆)"   "Confused"\
+        "ﾉ(•◡•)ﾉ"   "Happy"\
+        "(ಠ︹ಠ)"   "Sad"\
+        "Ⓣⓗⓐⓝⓚ Ⓨⓞⓤ"   "Thank you"\
+        "(✖_✖)"   "RIP"
 
 It requires:
 
@@ -27,3 +35,7 @@ Then add a hotkey to that script (execute command should be: ~/path_from_home/fi
 Buy a computer with better SO
 
 continue with the Linux installation instructions
+
+### Known errors
+
+xdotool does not work when sharing screen
