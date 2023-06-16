@@ -2,13 +2,13 @@
 
 Lets you use quickly a bunch of ascii faces with a simple double click that will add selected ascii face to the control that have the focus
 
-        "¯\_(ツ)_/¯"   "Slught"\
-        "(ಠ_ಠ)"   "Serious"\
-        "(⚆_⚆)"   "Confused"\
-        "ﾉ(•◡•)ﾉ"   "Happy"\
-        "(ಠ︹ಠ)"   "Sad"\
-        "Ⓣⓗⓐⓝⓚ Ⓨⓞⓤ"   "Thank you"\
-        "(✖_✖)"   "RIP"
+        "¯\_(ツ)_/¯"   
+        "(ಠ_ಠ)"   
+        "(⚆_⚆)"   
+        "ﾉ(•◡•)ﾉ"  
+        "(ಠ︹ಠ)"  
+        "Ⓣⓗⓐⓝⓚ Ⓨⓞⓤ"
+        "(✖_✖)" 
 
 It requires:
 
