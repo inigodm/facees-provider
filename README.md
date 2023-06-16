@@ -18,7 +18,7 @@ x-server running
 
 ## Wayland
 
-To make it usable with wayland I suppose that will be simply changing 'xdotools' with 'wtype' (https://github.com/atx/wtype) but... untested...
+To make it usable with wayland I suppose that will be simply changing 'xdotools' with '[wtype](https://github.com/atx/wtype)' but... untested...
 
 ## Linux
 
