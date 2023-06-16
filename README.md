@@ -39,3 +39,7 @@ continue with the Linux installation instructions
 ### Known errors
 
 xdotool does not work when sharing screen
+
+### Thanks 
+
+The funniest-when-angry malageño on the world: [@sirikon](https://github.com/sirikon).
